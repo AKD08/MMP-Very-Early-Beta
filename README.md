@@ -31,3 +31,4 @@ WIP more updates coming soon
 - Auto Update song list  
 - Textured Background  
 - QOL Changes
+- Add exe option

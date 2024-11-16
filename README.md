@@ -23,7 +23,8 @@
 This is MMP (Minecraft Music Player) Current Version (Beta V1.0)  
 pretty self explanitory  
 takes a sec to load  
-WIP more updates coming soon  
+WIP more updates coming soon
+Requires Python to work run the install.bat file included
 
 ### Things to add:
 - Autoplay  

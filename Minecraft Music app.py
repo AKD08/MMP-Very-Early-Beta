@@ -26,6 +26,12 @@ class MinecraftMusicApp:
         self.vlc_instance = vlc.Instance('C:\\Program Files\\VideoLAN\\VLC')  # Update the path if needed
         self.player = self.vlc_instance.media_player_new()
 
+        # Event when a track finishes
+        self.player.event_manager().event_attach(vlc.EventType.MediaPlayerEndReached, self.on_track_end)
+
+        # Initialize the status label early in the __init__ method, but it will be updated later.
+        self.status_label = None
+
         self.setup_welcome_screen()
 
     def setup_welcome_screen(self):
@@ -45,6 +51,11 @@ class MinecraftMusicApp:
 
     def load_player(self):
         self.clear_screen()
+
+        # Initialize the status label here
+        if not self.status_label:
+            self.status_label = tk.Label(self.root, text="Loading tracks...", font=("Arial", 14))
+            self.status_label.pack(pady=10)
 
         # Check if music has already been downloaded
         if not self.check_music_folder():
@@ -73,9 +84,6 @@ class MinecraftMusicApp:
 
         next_button = tk.Button(controls_frame, text="⏭", font=("Arial", 20), command=self.next_track)
         next_button.grid(row=0, column=2, padx=10)
-
-        self.status_label = tk.Label(self.root, text="Loading tracks...", font=("Arial", 14))
-        self.status_label.pack(pady=10)
 
     def clear_screen(self):
         for widget in self.root.winfo_children():
@@ -138,6 +146,10 @@ class MinecraftMusicApp:
         if self.track_list:
             self.current_track_index = (self.current_track_index - 1) % len(self.track_list)
             self.play_track()
+
+    def on_track_end(self, event):
+        """Automatically play the next track when the current track ends."""
+        self.next_track()
 
 # Run the application
 if __name__ == "__main__":

@@ -34,4 +34,5 @@ Requires Python to work run the install.bat file included
 - Auto Update song list  
 - Textured Background  
 - QOL Changes
-- Add exe option
+- Progress bar
+- Make into exe

@@ -37,6 +37,12 @@ MMP is the ultimate app for Minecraft music lovers, letting you enjoy the iconic
 Whether you want a chill experience or a custom-built music player, MMP lets you shape it your way.  
 
 ---
+### `Curent Stage of release`
+|Beta |Alpha |Full |
+|-----|------|-----|
+|❌ |❌ |❌ |
+
+---
 
 ## ⚠ `Disclaimer`  
 This is an **very early build :hammer_and_wrench: ** and is still a work-in-progress. Expect bugs, and remember, this is just the beginning of what MMP can become!  
@@ -45,6 +51,13 @@ This is an **very early build :hammer_and_wrench: ** and is still a work-in-prog
 This Entire Project is a side project I gave myself so i can get better at coding in python and make something cool for once.  
 This Will Take a while to complete because of school and work I wont have mutch time now but I will work it and overtime I will have something im proud of.  
 ## 💬 `First beta will be out as soon as possible`
+
+---
+### `Was the project anbandoned?` 
+✔️ =I am still working on it ❌ =I gave up on it
+| Status |
+|--------|
+|   ✔️  |
 
 ---
 

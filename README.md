@@ -53,7 +53,7 @@ This Will Take a while to complete because of school and work I wont have mutch 
 ## 💬 `First beta will be out as soon as possible`
 
 ---
-### `Was the project anbandoned?` 
+### 💬 `Was the project anbandoned?` 
 ✔️ =I am still working on it ❌ =I gave up on it
 | Status |
 |--------|

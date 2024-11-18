@@ -47,7 +47,7 @@ Whether you want a chill experience or a custom-built music player, MMP lets you
 ---
 
 ## ⚠ `Disclaimer`  
-This is an **very early build :hammer_and_wrench: ** and is still a work-in-progress. Expect bugs, and remember, this is just the beginning of what MMP can become!  
+This is a **very early build :hammer_and_wrench: ** and is still a work-in-progress. Expect bugs, and remember, this is just the beginning of what MMP can become!  
 `ALL CODE REMOVED FOR A PROJECT REDO`  
 
 This Entire Project is a side project I gave myself so i can get better at coding in python and make something cool for once.  

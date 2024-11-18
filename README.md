@@ -20,7 +20,7 @@
             \::/    /                \::/    /                                 
              \/____/                  \/____/ 
                                  
-# MMP (Minecraft Music Player)  (Current Version Beta V1.1)
+# MMP (Minecraft Music Player)  (Current Version Beta V1.25)
 
 MMP is the ultimate app for Minecraft music lovers, letting you enjoy the iconic tracks from Minecraft with a personal twist!  
 

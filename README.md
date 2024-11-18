@@ -24,7 +24,7 @@
 
 MMP is the ultimate app for Minecraft music lovers, letting you enjoy the iconic tracks from Minecraft with a personal twist!  
 
-# `Features`  
+# 🛠️ `Features`  
 - **Play Your Own Playlist**  
   Load your favorite tracks or stick with the nostalgic Minecraft music.  
 
@@ -40,7 +40,13 @@ Whether you want a chill experience or a custom-built music player, MMP lets you
 
 ## ⚠ `Disclaimer`  
 This is an **very early build :hammer_and_wrench: ** and is still a work-in-progress. Expect bugs, and remember, this is just the beginning of what MMP can become!  
-`ALL CODE REMOVED FOR A REDO`
+`ALL CODE REMOVED FOR A PROJECT REDO`  
+
+This Entire Project is a side project I gave myself so i can get better at coding in python and make something cool for once.  
+This Will Take a while to complete because of school and work I wont have mutch time now but I will work it and overtime I will have something im proud of.  
+## 💬 `First beta will be out as soon as possible`
+
+---
 
 ## ⚠ `Requirements`
  -Needs Python  

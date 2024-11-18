@@ -37,7 +37,7 @@ MMP is the ultimate app for Minecraft music lovers, letting you enjoy the iconic
 Whether you want a chill experience or a custom-built music player, MMP lets you shape it your way.  
 
 ---
-### `Curent Stage of release`
+### `Curent stage of release`
 |Beta |Alpha |Full |
 |-----|------|-----|
 |❌ |❌ |❌ |  

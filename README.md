@@ -53,6 +53,15 @@ This is an **very early build :hammer_and_wrench: ** and is still a work-in-prog
 - [ ] Auto Update song list
 - [ ] Volume Slider  
 - [ ] Custom Music
+- [ ] Animated Backgrounds
+- [ ] Transparency and Blur Effects
+- [ ] Audio Equalizer
+- [ ] Playback Effects
+- [ ] Light/Dark Mode
+- [ ] Screen Saver Mode: Will Display album art or visualizations when the app is idle.
+- [ ] Smart Playlists
+- [ ] Mini Player
+- [ ] Custom Hotkeys
 - [ ] Customizable backgrounds
 - [ ] Custom PLayer Picture
 - [ ] Custom PLayer Layout/Style

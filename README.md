@@ -40,9 +40,9 @@ Whether you want a chill experience or a custom-built music player, MMP lets you
 
 ---
 ### `Curent stage of release`
-|Beta |Alpha |Full |
-|-----|------|-----|
-|✔️ |✔️ |❌ |  
+|Beta|Full |
+|----|-----|
+|✔️ | ❌ |  
 
 ⚠ `Code Release Soon`
 

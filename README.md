@@ -77,7 +77,7 @@ This Will Take a while to complete because of school and work I wont have mutch 
 - [x] ~~Custom Music~~
 - [ ] Animated Backgrounds
 - [ ] Fix Light mode
-- [ ] fix go back
+- [ ] fix replay button
 - [ ] fix the progress bar
 - [ ] Transparency and Blur Effects
 - [x] ~~Audio Equalizer~~

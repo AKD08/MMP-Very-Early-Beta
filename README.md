@@ -20,7 +20,9 @@
             \::/    /                \::/    /                                 
              \/____/                  \/____/ 
                                  
-# MMP (Minecraft Music Player)  (Current Version Beta V3)
+# MMP (Minecraft Music Player)  (Current Version Beta V3)  
+
+Update :> new look, preview video, settings, light/dark mode, audio qualizer, use you own playlist, and a volume slider
 
 MMP is the ultimate app for Minecraft music lovers, letting you enjoy the iconic tracks from Minecraft with a personal twist!  
 
@@ -74,6 +76,9 @@ This Will Take a while to complete because of school and work I wont have mutch 
 - [x] ~~Volume Slider~~
 - [x] ~~Custom Music~~
 - [ ] Animated Backgrounds
+- [ ] Fix Light mode
+- [ ] fix go back
+- [ ] fix the progress bar
 - [ ] Transparency and Blur Effects
 - [x] ~~Audio Equalizer~~
 - [ ] Playback Effects

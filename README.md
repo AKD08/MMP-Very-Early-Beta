@@ -45,7 +45,7 @@ Whether you want a chill experience or a custom-built music player, MMP lets you
 |✔️ | ❌ |  
 
 ⚠ `Code Release VERY Soon`  
-⚠ `Full will be released when the application reaches v10`
+⚠ `Full will be released when the application reaches v5`
 
 ---
 

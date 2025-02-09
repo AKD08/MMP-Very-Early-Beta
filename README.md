@@ -63,6 +63,10 @@ This Will Take a while to complete because of school and work I wont have mutch 
 |--------|
 |   ✔️  |
 
+
+Progress [##############################--------------------] 60%/100%
+
+
 ---
 
 ## ⚠ `Requirements`
@@ -70,16 +74,16 @@ This Will Take a while to complete because of school and work I wont have mutch 
  -Needs FMPEG  
  -Needs VLC  
 
-### `Things to add:`
+### `Things to add:` each is 5%
 - [x] ~~Autoplay~~  
 - [x] ~~Repeat song~~
-- [x] Auto Update playlist
+- [x] ~~Auto Update playlist~~
 - [x] ~~Volume Slider~~
 - [x] ~~Custom Music~~
 - [ ] Animated Backgrounds
 - [ ] Fix Light mode
-- [x] fix previous track button
-- [x] fix the progress bar
+- [x] ~~fix previous track button~~
+- [x] ~~fix the progress bar~~
 - [ ] Transparency and Blur Effects
 - [x] ~~Audio Equalizer~~
 - [ ] Playback Effects
@@ -88,8 +92,6 @@ This Will Take a while to complete because of school and work I wont have mutch 
 - [ ] Mini Player
 - [ ] Custom Hotkeys
 - [ ] Customizable backgrounds
-- [ ] Custom PLayer Picture
-- [ ] Custom PLayer Layout/Style
 - [x] ~~Progress bar~~
 - [x] ~~Make it an actual exe for those who dont have/want Python or FMPEG~~
 - [x] ~~Create an Installer~~

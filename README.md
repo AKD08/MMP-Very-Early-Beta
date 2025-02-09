@@ -91,7 +91,8 @@ This Will Take a while to complete because of school and work I wont have mutch 
 - [ ] Custom PLayer Picture
 - [ ] Custom PLayer Layout/Style
 - [x] ~~Progress bar~~
-- [ ] Make it an actual exe for those who dont have/want Python or FMPEG
+- [x] ~~Make it an actual exe for those who dont have/want Python or FMPEG~~
+- [x] ~~Create an Installer~~
 
 # `Updated Pictures:`   
 

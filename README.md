@@ -81,7 +81,7 @@ Progress [###################################---------------] 70%/100%
 - [x] ~~Auto Update playlist~~
 - [x] ~~Volume Slider~~
 - [x] ~~Custom Music~~
-- [ ] Better Color
+- [ ] Idle Animation
 - [x] ~~Fix Light mode~~
 - [x] ~~fix previous track button~~
 - [x] ~~fix the progress bar~~

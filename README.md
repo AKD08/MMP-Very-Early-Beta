@@ -20,7 +20,7 @@
             \::/    /                \::/    /                                 
              \/____/                  \/____/ 
                                  
-# MMP (Minecraft Music Player) (Current Version Beta V4.7)  
+# MMP (Minecraft Music Player) (Current Version Beta V4.8)  
 
 Update :> new look, preview video, settings, light/dark mode, audio qualizer, use you own playlist, and a volume slider
 
@@ -46,7 +46,7 @@ Whether you want a chill experience or a custom-built music player, MMP lets you
 
 ⚠ `Code Release VERY Soon`  
 ⚠ `Full will be released when the application reaches v5`  
-⚠ `Installer takedown release of v4.7`
+⚠ `Installer takedown release of v5 soon`
 
 ---
 
@@ -65,7 +65,7 @@ This Will Take a while to complete because of school and work I wont have mutch 
 |   ✔️  |
 
 
-Progress [###################################---------------] 70%/100%
+Progress [########################################----------] 80%/100%
 
 
 ---
@@ -81,7 +81,7 @@ Progress [###################################---------------] 70%/100%
 - [x] ~~Auto Update playlist~~
 - [x] ~~Volume Slider~~
 - [x] ~~Custom Music~~
-- [ ] Idle Animation
+- [x] ~~Better Color~~
 - [x] ~~Fix Light mode~~
 - [x] ~~fix previous track button~~
 - [x] ~~fix the progress bar~~
@@ -89,7 +89,7 @@ Progress [###################################---------------] 70%/100%
 - [x] ~~Audio Equalizer~~
 - [x] ~~Fancier Ui~~
 - [x] ~~Light/Dark Mode~~
-- [ ] Screen Saver Mode: Will Display album art or visualizations when the app is idle.
+- [x] ~~Screen Saver Mode: Will Display album art or visualizations when the app is idle.~~
 - [ ] Mini Player
 - [ ] Custom Hotkeys
 - [ ] Customizable backgrounds
@@ -99,7 +99,7 @@ Progress [###################################---------------] 70%/100%
 
 # `Updated Pictures:`   
 
-![Title](https://github.com/user-attachments/assets/ac221201-1baf-4b10-90b9-fe401ddd01ef)
-![Player](https://github.com/user-attachments/assets/837db533-43b1-49ad-84c6-2a801e99e267)
-
-https://github.com/user-attachments/assets/caca675e-b3cb-4c6e-b20c-9984cabbf8f0
+![Title](https://github.com/user-attachments/assets/892a1521-9f50-4713-a8cd-599b9ee959e1)
+![Player](https://github.com/user-attachments/assets/3807aaf9-f963-471e-8ae5-8ba7f724c981)
+![Player_With_Options](https://github.com/user-attachments/assets/4d67226a-e68c-4917-8166-c1891b28034c)
+![Equalizer](https://github.com/user-attachments/assets/a4d9f661-44ec-4080-ae6e-7f654feadc23)

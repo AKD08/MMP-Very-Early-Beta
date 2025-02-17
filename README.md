@@ -71,7 +71,7 @@ Progress [##############################--------------------] 60%/100%
 
 ## ⚠ `Requirements`
  -Needs Python  
- -Needs FMPEG  
+ -Needs FMPEG FFmpeg installer for windows: https://lame.buanzo.org/ffmpeg.php   
  -Needs VLC  
 
 ### `Things to add:` each is 5%

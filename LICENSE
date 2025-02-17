@@ -1,4 +1,4 @@
 This software is licensed under the GNU General Public License v3.0, available in LICENSE.GPLv3.
-
+:>
 The compiled versions of this software bundle libvlc, which is licensed under the LGPLv2.1, available in LICENSE.LGPLv2.1. 
 Source code for libvlc can be found at https://www.videolan.org/vlc/download-sources.html.

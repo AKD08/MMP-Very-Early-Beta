@@ -20,7 +20,7 @@
             \::/    /                \::/    /                                 
              \/____/                  \/____/ 
                                  
-# MMP (Minecraft Music Player) (Current Version Beta V4.6)  
+# MMP (Minecraft Music Player) (Current Version Beta V4.7)  
 
 Update :> new look, preview video, settings, light/dark mode, audio qualizer, use you own playlist, and a volume slider
 
@@ -45,7 +45,8 @@ Whether you want a chill experience or a custom-built music player, MMP lets you
 |✔️ | ❌ |  
 
 ⚠ `Code Release VERY Soon`  
-⚠ `Full will be released when the application reaches v5`
+⚠ `Full will be released when the application reaches v5`  
+⚠ `Installer takedown release of v4.7`
 
 ---
 

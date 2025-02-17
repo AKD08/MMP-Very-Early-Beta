@@ -64,7 +64,7 @@ This Will Take a while to complete because of school and work I wont have mutch 
 |   ✔️  |
 
 
-Progress [##############################--------------------] 60%/100%
+Progress [###################################---------------] 70%/100%
 
 
 ---
@@ -86,7 +86,7 @@ Progress [##############################--------------------] 60%/100%
 - [x] ~~fix the progress bar~~
 - [ ] Better file system
 - [x] ~~Audio Equalizer~~
-- [x] Fancier Ui
+- [x] ~~Fancier Ui~~
 - [x] ~~Light/Dark Mode~~
 - [ ] Screen Saver Mode: Will Display album art or visualizations when the app is idle.
 - [ ] Mini Player

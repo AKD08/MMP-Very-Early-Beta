@@ -80,13 +80,13 @@ Progress [##############################--------------------] 60%/100%
 - [x] ~~Auto Update playlist~~
 - [x] ~~Volume Slider~~
 - [x] ~~Custom Music~~
-- [ ] Animated Backgrounds
-- [ ] Fix Light mode
+- [ ] Better Color
+- [x] ~~Fix Light mode~~
 - [x] ~~fix previous track button~~
 - [x] ~~fix the progress bar~~
-- [ ] Transparency and Blur Effects
+- [ ] Better file system
 - [x] ~~Audio Equalizer~~
-- [ ] Playback Effects
+- [x] Fancier Ui
 - [x] ~~Light/Dark Mode~~
 - [ ] Screen Saver Mode: Will Display album art or visualizations when the app is idle.
 - [ ] Mini Player

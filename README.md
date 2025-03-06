@@ -20,14 +20,16 @@
             \::/    /                \::/    /                                 
              \/____/                  \/____/ 
                                  
-# MMP (Minecraft Music Player) (Current Version Beta V4.8)  
+# MMP (Minecraft Music Player) (Current Version Beta V5)  
 
 Update :> new look, preview video, settings, light/dark mode, audio qualizer, use you own playlist, and a volume slider
 
 MMP is the ultimate app for Minecraft music lovers, letting you enjoy the iconic tracks from Minecraft with a personal twist!  
 
 # Disclaimer  
-This project includes FFmpeg, which is not owned or created by me. All rights, trademarks, and ownership of FFmpeg belong to their respective creators and maintainers. I make no claims of ownership over FFmpeg or its components.
+This project includes FFmpeg, which is not owned or created by me. All rights, trademarks, and ownership of FFmpeg belong to their respective creators and maintainers. I make no claims of ownership over FFmpeg or its components.  
+
+There is a quick installer you may download here run as an administrator and it will download, install, extract, and update the path accordingly
 
 For more information, licensing details, and official downloads, visit:  
 [🔗 FFmpeg Official Website](https://www.ffmpeg.org)

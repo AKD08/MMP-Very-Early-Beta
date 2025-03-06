@@ -26,6 +26,15 @@ Update :> new look, preview video, settings, light/dark mode, audio qualizer, us
 
 MMP is the ultimate app for Minecraft music lovers, letting you enjoy the iconic tracks from Minecraft with a personal twist!  
 
+# Disclaimer  
+This project includes FFmpeg, which is not owned or created by me. All rights, trademarks, and ownership of FFmpeg belong to their respective creators and maintainers. I make no claims of ownership over FFmpeg or its components.
+
+For more information, licensing details, and official downloads, visit:  
+[🔗 FFmpeg Official Website](https://www.ffmpeg.org)
+
+FFmpeg is licensed under the GNU Lesser General Public License (LGPL) or the GNU General Public License (GPL), depending on the configuration. Please review the official documentation and license terms before use.
+
+---
 # 🛠️ `Features`  
 - **Play Your Own Playlist**  
   Load your favorite tracks or stick with the nostalgic Minecraft music.  

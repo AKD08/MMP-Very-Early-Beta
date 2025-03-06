@@ -22,8 +22,6 @@
                                  
 # MMP (Minecraft Music Player) (Current Version Beta V5)  
 
-Update :> new look, preview video, settings, light/dark mode, audio qualizer, use you own playlist, and a volume slider
-
 MMP is the ultimate app for Minecraft music lovers, letting you enjoy the iconic tracks from Minecraft with a personal twist!  
 
 # Disclaimer  
